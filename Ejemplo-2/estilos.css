@@ -1,0 +1,42 @@
+body{
+    background-color: #edf2f8;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.card1{
+    background-color: #733fc8;
+}
+.card-1{
+    background-image: url(/Ejemplo-2/images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: top  left 80% ;
+}
+.img-card1{
+   border: solid #a070ee ;
+}
+.text-D{
+    color: #a070ee ;
+}
+.card-2{
+    background-color: #49556b;
+}
+.text-J{
+    color: #989ea9;
+}
+.card-3{
+    background-color: #ffffff;
+}
+.card-4{
+    background-color: #18202d;
+}
+.text-P {
+    color:#989ea9;
+}
+.card-5{
+    background-color: #ffffff;
+}
+.text-k{
+    font-size: 12pt;
+}
+.text-c{
+    color: #3f4754;
+}

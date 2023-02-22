@@ -1,0 +1,17 @@
+.img-logo{
+    height: 60px;
+    width: 80px;
+}
+.bg-light{
+    background-color: #f5e2bf !important;
+}
+.nav-link{
+    color: black !important;
+    font-family: fantasy;
+}
+.nav-link:hover{
+    color: #9a1c64 !important;
+}
+.img-fondo{
+    width: 100%;
+}
